@@ -1,0 +1,31 @@
+p {
+    color: white;
+    font-size: 12px;
+    text-decoration: line-through;
+}
+h1 {
+	color: #008000;
+	background-color: black;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 40px;
+	margin: 20px;
+	border-style: dashed;
+	border-color: red;
+	border-width: 5px;
+
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+body{
+	background-color: grey;
+	font-family: sans-serif;
+}
+
+h2{
+	text-decoration: underline;
+}
